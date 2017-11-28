@@ -2,11 +2,12 @@
   [class*="col-"]{
     width: 100%;
   }
-  #start{
+  
+  #start {
     background-image: url("../img/dawn.png");
   }
   
-  img{
+  img {
     content: url("../img/kitten-large.png");
   }
 }
@@ -14,11 +15,12 @@
   [class*="col-"]{
     width: 100%;
   }
-  #start{
+  
+  #start {
     background-image: url("../img/night.jpg");
   }
-  
-  img{
+
+  img {
     content: url("../img/kitten-small.png");
   }
 }
