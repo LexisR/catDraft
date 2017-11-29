@@ -1,11 +1,11 @@
 #start {
   background-image: url("../img/sunny-day.jpg");
   background-size: cover;
-  height: 650px;
+  height: 950px;
 }
 
 img {
   position: absolute;
-  right: 25%;
+  right: 35%;
   bottom: 5%;
 }
